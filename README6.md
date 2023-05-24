@@ -2,7 +2,7 @@
 
 ## 함수
 
-- **함수**
+ **함수**
     - **함수 선언**(**function declaration**)은 지정된 매개변수(parameter)를 갖는 함수를 정의합니다.
         
         ```jsx
